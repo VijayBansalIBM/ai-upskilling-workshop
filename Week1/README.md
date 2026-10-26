@@ -57,10 +57,6 @@ Pick any, all, or none. These are only here to spark ideas.
 - OpenAI: <https://developers.openai.com/api/docs/concepts>
 - Google Cloud: <https://www.skills.google/course_templates/539/video/647425>
 
-### Optional certifications (not mandatory)
-
-- GitHub Copilot (GH-300): <https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/>
-- Claude Certified Architect, Foundations: <https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification>
 
 ## Share-out
 
