@@ -27,12 +27,12 @@ Week1/
 
 ### How to submit
 
-1. Fork or clone this repo (or follow the access instructions given in the kickoff).
+1. Clone this repo (or follow the access instructions given in the kickoff).
 2. Create `Week1/<your-github-id>/`.
 3. Add your two files.
 4. Open a pull request (or push directly if you were given write access).
 
-## More ideas for your lab
+## More ideas for this lab
 
 Pick any, all, or none. These are only here to spark ideas.
 
