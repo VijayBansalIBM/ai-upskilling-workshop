@@ -32,7 +32,7 @@ Week1/
 3. Add your two files.
 4. Open a pull request (or push directly if you were given write access).
 
-## Optional ideas (not required)
+## More ideas for your lab
 
 Pick any, all, or none. These are only here to spark ideas.
 
