@@ -23,11 +23,3 @@ Give an example from what you tried.
 ## 4. Where did AI help, where did it fall short, and what surprised you?
 
 <your answer>
-
----
-
-## Optional
-
-**One thing I'd like help with in the coming weeks:**
-
-<your answer>
